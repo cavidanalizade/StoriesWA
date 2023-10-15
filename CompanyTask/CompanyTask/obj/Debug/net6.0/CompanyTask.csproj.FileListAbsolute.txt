@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\CompanyTask\CompanyTask\bin\Debug\net6.0\CompanyTask.exe
+C:\Users\User\source\repos\CompanyTask\CompanyTask\bin\Debug\net6.0\CompanyTask.deps.json
+C:\Users\User\source\repos\CompanyTask\CompanyTask\bin\Debug\net6.0\CompanyTask.runtimeconfig.json
+C:\Users\User\source\repos\CompanyTask\CompanyTask\bin\Debug\net6.0\CompanyTask.dll
+C:\Users\User\source\repos\CompanyTask\CompanyTask\bin\Debug\net6.0\CompanyTask.pdb
+C:\Users\User\source\repos\CompanyTask\CompanyTask\obj\Debug\net6.0\CompanyTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CompanyTask\CompanyTask\obj\Debug\net6.0\CompanyTask.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CompanyTask\CompanyTask\obj\Debug\net6.0\CompanyTask.AssemblyInfo.cs
+C:\Users\User\source\repos\CompanyTask\CompanyTask\obj\Debug\net6.0\CompanyTask.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CompanyTask\CompanyTask\obj\Debug\net6.0\CompanyTask.dll
+C:\Users\User\source\repos\CompanyTask\CompanyTask\obj\Debug\net6.0\refint\CompanyTask.dll
+C:\Users\User\source\repos\CompanyTask\CompanyTask\obj\Debug\net6.0\CompanyTask.pdb
+C:\Users\User\source\repos\CompanyTask\CompanyTask\obj\Debug\net6.0\CompanyTask.genruntimeconfig.cache
+C:\Users\User\source\repos\CompanyTask\CompanyTask\obj\Debug\net6.0\ref\CompanyTask.dll
